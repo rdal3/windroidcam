@@ -1,0 +1,8 @@
+# Nada de config local do usuario vai para o repo (ela fica em %APPDATA%\WebcamAndroid)
+config.json
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk

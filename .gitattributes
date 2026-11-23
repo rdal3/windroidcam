@@ -1,0 +1,5 @@
+# Scripts do Windows: manter CRLF. O BOM UTF-8 do .ps1 e preservado pelo git (nao remova).
+*.ps1  text eol=crlf
+*.cmd  text eol=crlf
+*.bat  text eol=crlf
+*.md   text eol=lf
